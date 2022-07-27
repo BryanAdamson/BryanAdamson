@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Adamson Bryan.
-- 👀 I’m a back-end heavy software developer. 
-- 🌱 I hope yoou enjoy viewing my profile!!
+- 👀 I’m a software developer. 
+- 🌱 I hope you enjoy viewing my profile!!
 - 📫 email - adamsontaofeeq@gmail.com, linkedin - https://www.linkedin.com/in/adamson-bryan-to/
 
 <!---
